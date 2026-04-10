@@ -66,6 +66,20 @@ O programa resolve o problema de identificação de redundância em bases de dad
 | 12                | 5.80      | 6.61    | 0.55       |
 
 ---
+________________________________________
+7. Gráfico de Tempo de Execução
+  ![Gráfico Tempo Execução](tempo_execucao.png)
+
+---
+________________________________________
+8. Gráfico de Speedup
+![Gráfico Speedup](speedup.png)
+
+---
+________________________________________
+9. Gráfico de Eficiência
+![Gráfico Eficiência](eficiencia.png)
+
 
 # 10. Análise dos Resultados
 
